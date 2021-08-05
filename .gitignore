@@ -7,10 +7,7 @@ src/data/cached
 src/checkpoints/
 __pycache__
 
-# audio clip data
 /data
-/resamp_data
-*.txt
 *.csv
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,vscode,jupyternotebooks,linux,macos
